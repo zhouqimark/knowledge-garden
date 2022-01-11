@@ -1,3 +1,2 @@
 - github 通过github app?目前有点复杂，官方不再支持
 - vercal 官方文档好像没有明确对接的部署步骤，结合verbal官方文档？
--
