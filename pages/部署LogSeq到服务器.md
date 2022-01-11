@@ -1,1 +1,2 @@
-- github
+- github 通过github app?目前有点复杂，官方不再支持
+- vercal
