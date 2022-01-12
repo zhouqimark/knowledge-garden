@@ -1,4 +1,6 @@
 - $GITHUB_WORKSPACE 似乎是一个环境变量
+- 每一个action都是一个单独的文件
+- 我能可以搭积木使用他人的action
 - `.github/workflows`配置文件root位置
   yaml文件格式
 	- workflow 代表配置文件执行动作
