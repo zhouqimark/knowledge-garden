@@ -1,8 +1,10 @@
+public:: true
+
 - create a new line in this block
   id:: 392bbef2-bb83-4561-ba05-ba10ff8d0ad5
   This is the second line in this block
 - [[构建我的被动收入]]
-- use`((`to reference a block on **any**page
+- use`((`to reference a block on **any** page
   ((392bbef2-bb83-4561-ba05-ba10ff8d0ad5))
 	- I'm child block
 - DONE to create a todo list with state of `todo` or `doing`
