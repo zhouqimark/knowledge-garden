@@ -1,4 +1,3 @@
-
 # This is a basic workflow to help you get started with Actions
 
 name: CI
@@ -26,9 +25,9 @@ jobs:
         uses: pengx17/logseq-publish@main
       - name: add a nojekyll file
         run: touch $GITHUB_WORKSPACE/www/.nojekyll
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.2.2
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.9
         with:
           branch: gh-pages # The branch the action should deploy to.
           folder: www # The folder the action should deploy.
-          clean: false
+          clean: true
