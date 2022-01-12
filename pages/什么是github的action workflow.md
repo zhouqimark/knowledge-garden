@@ -18,4 +18,3 @@
   好像不是，无关紧要了，细枝末节
 - github action配置中的trigger的分支main，没有匹配我正在使用的master
   > git branch -m main
--
