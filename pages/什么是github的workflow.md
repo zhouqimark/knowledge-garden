@@ -1,2 +1,11 @@
 - $GITHUB_WORKSPACE 似乎是一个环境变量
--
+- `.github/workflows`配置文件root位置
+  yaml文件格式
+	- workflow 代表配置文件执行动作
+		- job 任务
+		- ...
+			- step 步骤
+			- ...
+				- action 动作
+	-
+- 在虚拟机环境下运行命令的流程化工具🔧
