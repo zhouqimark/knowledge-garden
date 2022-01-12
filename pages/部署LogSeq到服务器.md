@@ -1,3 +1,5 @@
 - github 通过github app?目前有点复杂，官方不再支持
 - vercal 官方文档好像没有明确对接的部署步骤，结合verbal官方文档？
+- [找了篇官方指南](https://docs.logseq.com/#/page/publishing%20(desktop%20app%20only))
+-
 -
