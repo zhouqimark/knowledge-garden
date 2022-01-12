@@ -14,4 +14,6 @@
   CLOCK: [2022-01-12 Wed 23:07:30]--[2022-01-12 Wed 23:08:05] =>  00:00:35
   :END:
   好像不是，无关紧要了，细枝末节
+- github action配置中的trigger的分支main，没有匹配我正在使用的master
+  > git branch -m main
 -
