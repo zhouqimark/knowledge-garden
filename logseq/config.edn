@@ -166,7 +166,7 @@
 
  :ref/linked-references-collapsed-threshold 50
  :graph/settings {:journal? true, :builtin-pages? false}
- :favorites ["构建我的被动收入"]
+ :favorites ["2022" "构建我的被动收入"]
  :publishing/all-pages-public? true
  :feature/enable-journals? true
 
